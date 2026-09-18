@@ -1,0 +1,3 @@
+# Local collection output. Never commit raw machine inventory.
+capture/
+
